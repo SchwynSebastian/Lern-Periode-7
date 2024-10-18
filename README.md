@@ -14,7 +14,7 @@
 - [x] mich mit den grundlegenden Funktionen und Variablen auseinandersetzten
 
 
-✍️ Heute habe ich mich mit dem Einstieg von Javascript befasst, denn Zweck und die Struktur gelernt. Ich habe mich Hauptsächlich mit einem Random number generator, User inputs, Type conversions und Variable beschäftigt. Ich habe z.B. gelernt wie man mittels constants und Funktionen einen random number generater erstellen kann. 
+✍️ Heute habe ich mich mit dem Einstieg von Javascript befasst, denn Zweck und die Struktur gelernt. Ich habe mich Hauptsächlich mit einem Random number generator, User inputs, Type conversions und Variable beschäftigt. Ich habe z.B. gelernt wie man mittels constants und Funktionen einen random number generater erstellen kann. Ich habe auch Variablen kennengelernt und wie man verschiedene Type conversions durchführen kann.
 
 ## 25.10.2024
 
