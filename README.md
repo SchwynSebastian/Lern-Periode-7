@@ -4,7 +4,9 @@
 
 ## Grob-Planung
 
-
+- Ich stehe momentan mit einem 5 Schnitt.
+- Ich möchte javascript Code in einer Website integrieren
+- Ich möchte in dieser LP eine Website mittels html, css und javascript erstellen
 
 ## 18.10.2024
 
