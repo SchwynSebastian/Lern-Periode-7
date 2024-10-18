@@ -10,9 +10,8 @@
 
 ## 18.10.2024
 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] ein javascript starter-tutorial anschauen
+- [ ] mich mit den grundleenden Funktion und Variablen auseinandersetzten
 
 
 ✍️ Heute habe ich 
