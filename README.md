@@ -18,10 +18,20 @@
 
 ## 25.10.2024
 
-- [ ] s
-- [ ] s
-- [ ] s
+- [x] M322 Dokumentieren und Testen repetieren
+- [x] UML schnell in code umwanden können
+- [x] das Schere, Stein, Papier spiel fertig coden
 
 ✍️ Heute habe ich 
 
 ## 01.11.2024
+
+- [ ] 
+- [ ] 
+- [ ]
+
+✍️ Heute habe ich 
+
+## 08.11.2024
+
+
