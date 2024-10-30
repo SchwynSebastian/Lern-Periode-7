@@ -19,10 +19,10 @@
 ## 25.10.2024
 
 - [x] M322 Dokumentieren und Testen repetieren
-- [x] UML schnell in code umwanden können
+- [x] UML schnell in code umwandeln können
 - [x] das Schere, Stein, Papier spiel fertig coden
 
-✍️ Heute habe ich 
+✍️ Heute habe ich die Themen die wir am 25.10 durchgenommen habe repetiert (dokumentiern und testen). Ich habe mir nachher Zeit genommen ein UML Schema in code umzuwandeln (effizient, schnell). Danach habe ich mir noch ein paar Videos über javascript angeschaut und ein Schere, Stein, Papier fertig codiert, mittels die Hilfe von Tutorials über Javascript.
 
 ## 01.11.2024
 
