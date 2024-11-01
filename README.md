@@ -26,7 +26,7 @@
 
 ## 01.11.2024
 
-- [ ] die Themen vom Modull 320 repetieren
+- [ ] die Themen vom Modul 320 repetieren
 - [ ] Ein Pokerspiel auf der Website mittels js anfangen.
 
 ✍️ Heute habe ich 
