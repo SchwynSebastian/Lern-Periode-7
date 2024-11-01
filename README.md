@@ -7,7 +7,7 @@
 - Ich stehe momentan mit einem 5 Schnitt.
 - Ich möchte javascript Code in einer Website integrieren
 - Ich möchte in dieser LP eine Website mittels html, css und javascript erstellen
-- Ich möchte in den Modulen 346 und 294 eine 5.5 schreiben, da ich das Thema ziemlich gut verstehe und mich gerade mit javascript beschäftige
+- Ich möchte in den Modulen 346 und 294 eine 5.5 schreiben, da ich das Thema ziemlich gut verstehe und mich gerade selbst mit dem Modul für ein anderes Projekt beschäftige.
 
 ## 18.10.2024
 
@@ -27,10 +27,10 @@
 
 ## 01.11.2024
 
-- [ ] die Themen vom Modul 320 repetieren
-- [ ] Ein Pokerspiel auf der Website mittels js anfangen.
+- [x] die Themen vom Modul 320 repetieren
+- [x] Ein Pokerspiel auf der Website mittels js anfangen.
 
-✍️ Heute habe ich 
+✍️ Heute habe ich verschiedene Themen vom Modul 320 wie Methoden, Kapselung, UML, Testen und Dokumentieren befasst. Ich habe dazu auch noch Aufgaben von ChatGPT generieren lassen sodass ich sie als Übung benutzen kann. Danach fing ich an mit meinem Poker spiel mittels Javascript. Ich habe heute den Grundaufbau, also HTML und ein bisschen CSS code fertig programmiert.
 
 ## 08.11.2024
 
