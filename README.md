@@ -34,4 +34,24 @@
 
 ## 08.11.2024
 
+- [x] Material für OBA repetieren (HTTP Anfragemethoden, json, DOM, javascript)
+- [ ] GUI für die Poker Website fertig coden
+
+✍️ Heute habe ich die Themen für die Oba am 14.11 angeschaut, ich musste besonders javascript und DOM anschauen da ich vieles vom letzten Unterricht vergessen habe. Ich bin aber ziemlich schnell wieder in das THema reingekommen und konnte mich demnächst meiner Website widmen. Ich fing an die GUI für die Poker Website zu gestalten. Sie wurde fast fertig (Die Karten Kombis wurden nicht ganz fertig erstellt) aber ich habe einen ziemlich gorssen Fortschritt erarbeitet.
+
+## 15.11.2024
+
+- [x] Im Modul 294 die Aufgabe Client Side Routing fertig erarbeiten
+- [x] Videos über js anschauen( wie man Gegenstände randomisiert verteilen kann/andere Funktionen)
+- [x] Die GUI für die Website fertig coden und einen Einblick in die Hauptseite werfen(Grundriss des Spiels und Funktionen der Karten)
+
+✍️ Heute habe ich damit angefangen, die Aufgabe am Donnerstag, Client Side Routing fertig zu erarbeiten, da ich am Donnerstag mit der Aufgabe CRUD ein bisschen länger brauchte. Ich schaute mir demnächst Videos über javascript an, da ich für meine Website viel zu wenig Wissen besitze um sie funktionsfähig zu programmieren. Nachdem ich die Videos angeschaut habe, codierte ich die GUI fertig und fing an die Struktur der Hauptseite zu visualisieren und einen kleinen Einstiegscode zu programmieren.
+
+## 22.11.2024
+
+- [ ]
+- [ ]
+- [ ]
+
+
 
