@@ -49,9 +49,9 @@
 
 ## 22.11.2024
 
-- [ ]
-- [ ]
-- [ ]
+- [ ] Die Aufgabe im Modul 346 über Wordpress und MySQL bearbeiten 
+- [ ] Videos zu Javascript anschauen
+- [ ] Die AUfgabe CRUD repetieren, da ich sie noch nicht ganz gut kann.
 
 ✍️ Heute habe ich
 
