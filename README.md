@@ -50,10 +50,10 @@
 ## 22.11.2024
 
 - [ ] Die Aufgabe im Modul 346 über Wordpress und MySQL bearbeiten 
-- [ ] Videos zu Javascript anschauen
-- [ ] Die Aufgabe CRUD repetieren, da ich sie noch nicht ganz gut kann.
+- [x] Videos zu Javascript anschauen
+- [x] Die Aufgabe CRUD repetieren, da ich sie noch nicht ganz gut kann.
 
-✍️ Heute habe ich
+✍️ Heute habe ich zuerstein paar Videos über Javascript Arrays, Spread Operators und verschiedene Parameter angeschaut. Ich habe nachher angefangen die Aufgabe Cloud Datenabnken bearbeitet. Es brauchte länger als gedacht und kam zur letzten Aufgabe an, konnte es aber nicht fertig bearbeiten. Es brauchte so lange weil die Anweisungen veraltet waren, also musste ich viel suchen, wo welche Sachen waren. Am Schluss benutzte ich die Zeit CRUD zu repetieren (get, post, delete, patch, update) da nächste Woche die LB Projektarbeit anfangt.
 
 
 
