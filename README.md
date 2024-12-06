@@ -55,5 +55,10 @@
 
 ✍️ Heute habe ich zuerstein paar Videos über Javascript Arrays, Spread Operators und verschiedene Parameter angeschaut. Ich habe nachher angefangen die Aufgabe Cloud Datenabnken bearbeitet. Es brauchte länger als gedacht und kam zur letzten Aufgabe an, konnte es aber nicht fertig bearbeiten. Es brauchte so lange weil die Anweisungen veraltet waren, also musste ich viel suchen, wo welche Sachen waren. Am Schluss benutzte ich die Zeit CRUD zu repetieren (get, post, delete, patch, update) da nächste Woche die LB Projektarbeit anfangt.
 
+  
+## 06.12.2024
 
+- [x] LB Projekt über ein Mitarbeiterverwaltungssystem
+- [x] Buggs an meinem Poker Projekt beheben
 
+✍️ Heute habe ich
