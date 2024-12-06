@@ -64,7 +64,9 @@
 
 ## 06.12.2024
 
-- [ ] 
-- [ ] 
+- [ ] Poker Projekt Interaktionen verbessern/hinzufügen
+- [x] Eine Aufgabe im Modul 450 bearbeiten
+- [x] Videos über javascript weiter anschauen
 
-✍️ Heute habe ich
+
+✍️ Heute habe ich mich mit meinen Zielen und Aufgaben beschäftigt. Zuerst fing ich mit der Aufgabe 6970 im Modul 450 an und konnte es fertig bearbeiten. Danach habe ich weitere Videos über JavaScript angeschaut, um mein Wissen in der Programmierung zu vertiefen. Für mein Poker-Projekt konnte ich Heuten nichts machen, weil es auf meinen PC und nicht auf den Laptop gespeichert war.
