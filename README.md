@@ -70,3 +70,10 @@
 
 
 ✍️ Heute habe ich mich mit meinen Zielen und Aufgaben beschäftigt. Zuerst fing ich mit der Aufgabe 6970 im Modul 450 an und konnte es fertig bearbeiten. Danach habe ich weitere Videos über JavaScript angeschaut, um mein Wissen in der Programmierung zu vertiefen. Für mein Poker-Projekt konnte ich Heuten nichts machen, weil es auf meinen PC und nicht auf den Laptop gespeichert war.
+
+## 13.12.20204
+
+- [ ] Die Videos in Kapitel 2 im Modul 295 anschauen und die dazugehörigen Aufgaben lösen(auf Linkedin)
+- [ ] die Spielfunktion meines Pokerspiels realisieren/spielbar programmieren
+
+✍️ Heute habe ich die Videos in Kapitel 2 des Moduls 295 auf LinkedIn angeschaut und die Aufgabe APIs und eine Zusammenfassung des Videos fertig gelöst/geschrieben. Zudem konnte ich Fortschritte bei der Spielfunktion meines Pokerspiels machen. Die Spielbarkeit nimmt Form an, und ich habe funktionierende Abläufe programmiert(Man kann jetzt diue Karten random austeilen lassen und der Dealer kann die Karten verteilen anhand von einer bestimmten ANzahl von Spielern).
