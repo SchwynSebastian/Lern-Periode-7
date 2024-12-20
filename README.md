@@ -73,7 +73,16 @@
 
 ## 13.12.20204
 
-- [ ] Die Videos in Kapitel 2 im Modul 295 anschauen und die dazugehörigen Aufgaben lösen(auf Linkedin)
-- [ ] die Spielfunktion meines Pokerspiels realisieren/spielbar programmieren
+- [x] Die Videos in Kapitel 2 im Modul 295 anschauen und die dazugehörigen Aufgaben lösen(auf Linkedin)
+- [x] die Spielfunktion meines Pokerspiels realisieren/spielbar programmieren
 
 ✍️ Heute habe ich die Videos in Kapitel 2 des Moduls 295 auf LinkedIn angeschaut und die Aufgabe APIs und eine Zusammenfassung des Videos fertig gelöst/geschrieben. Zudem konnte ich Fortschritte bei der Spielfunktion meines Pokerspiels machen. Die Spielbarkeit nimmt Form an, und ich habe funktionierende Abläufe programmiert(Man kann jetzt diue Karten random austeilen lassen und der Dealer kann die Karten verteilen anhand von einer bestimmten ANzahl von Spielern).
+
+## 20.12.20204
+
+- [ ]
+- [ ]
+- [ ]
+
+  
+✍️ Heute habe ich
